@@ -1,0 +1,47 @@
+body {
+    background-color: #ECF3F6;
+    margin: 0px;
+}
+
+header {
+    font-family: 'Baloo', cursive;
+    font-size: 44px;
+    margin: 5%;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 10px;
+    margin: 5%;
+}
+
+.container_two {
+    text-decoration: none;
+    list-style: none;
+    padding: 0px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+li, a {
+    font-family: 'Baloo', cursive;
+    border-radius: 10px;
+    background-color: #486893;
+    color: white;
+    text-decoration: none;
+    margin: 2% 3%;
+    justify-content: center;
+    display: inline-block;
+    padding: 2px;
+    font-size: 20px;
+}
+
+a {
+    width: 93%;
+    display: inline-block;
+    text-align: center;
+}

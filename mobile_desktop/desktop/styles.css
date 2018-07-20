@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+}
+
+img {
+    width: 100%;
+    margin: 0px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container_two {
+    display: inline-flex;
+    justify-content: space-between;
+    margin-top: 4%;
+}
+
+li {
+    text-decoration: none;
+    font-style: none;
+    display: inline-block;
+    font-family: 'Baloo', cursive;
+    font-size: 50px;
+    text-align: center;
+    color: #182331;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+    color: #182331;
+}
+
+.container {
+    display: flex;
+    background-color: white;
+    height: 180px;
+}
+
+.logo {
+    margin-right: 50%;
+}
