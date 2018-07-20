@@ -1,3 +1,3 @@
 # css-html_moon_land
 
-Lab 2
+This is a lab of a website we created wireframes for.
